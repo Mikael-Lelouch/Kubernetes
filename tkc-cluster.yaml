@@ -5,7 +5,7 @@ metadata:
   namespace: management                   #vsphere namespace
 spec:
   distribution:
-    version: v1.21                             #Resolves to latest TKR 1.20
+    version: v1.21                             #Resolves to latest TKR 1.21
   topology:
     controlPlane:
       count: 1                                 #number of control plane nodes
